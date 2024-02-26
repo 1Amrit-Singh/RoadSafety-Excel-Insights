@@ -1,10 +1,6 @@
 # RoadSafety-Excel-Insights
 Explore the intricacies of road safety with our GitHub repository, 'RoadSafety-Excel-Insights.' Uncover deep accident insights using the magic of Excel, as we delve into comprehensive data analysis for a safer tomorrow
 
----
-
-# RoadSafety-Excel-Insights
-
 ## Project Overview
 
 Explore and analyze road accident data to unravel patterns, identify accident-prone conditions, and gain insights into the factors influencing road fatalities. Leverage the power of Excel to delve deep into a comprehensive dataset covering all traffic accidents in 2021 and 2022, with over 307,000 records.
