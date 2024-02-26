@@ -48,6 +48,3 @@ Explore the dataset by clicking on this [link](https://github.com/1Amrit-Singh/R
 
 Thank you for your time and engagement in delving into this analysis. Your commitment contributes to fostering a collective dedication to road safety.
 
----
-
-Feel free to adjust the content based on your preferences or add more details as needed.
