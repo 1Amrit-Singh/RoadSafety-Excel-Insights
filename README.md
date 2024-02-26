@@ -40,7 +40,6 @@ Explore the dataset by clicking on this [link](https://github.com/1Amrit-Singh/R
 
 ## Blog Post
 
-Read the detailed analysis in the accompanying [blog post](INSERT_BLOG_POST_LINK_HERE), where each key finding is discussed in-depth.
 Read the detailed analysis in the accompanying [blog post](https://medium.com/@amrit_/unraveling-the-road-safety-enigma-delving-deep-into-accident-insights-with-the-magic-of-excel-9cb6c5abcec8), where each key finding is discussed in-depth.
 
 ## Acknowledgment
