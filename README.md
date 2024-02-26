@@ -1,8 +1,6 @@
 # RoadSafety-Excel-Insights
 Explore the intricacies of road safety with our GitHub repository, 'RoadSafety-Excel-Insights.' Uncover deep accident insights using the magic of Excel, as we delve into comprehensive data analysis for a safer tomorrow
 
-Certainly! Here's a summarized version that you can use for your GitHub README file:
-
 ---
 
 # RoadSafety-Excel-Insights
@@ -43,6 +41,10 @@ Dive into the dataset to uncover valuable insights, including specific dates, se
 ## How to Access the Dataset
 
 Explore the dataset by clicking on this [link](https://github.com/1Amrit-Singh/RoadSafety-Excel-Insights).
+
+## Blog Post
+
+Read the detailed analysis in the accompanying [blog post]([INSERT_BLOG_POST_LINK_HERE](https://medium.com/@amrit_/unraveling-the-road-safety-enigma-delving-deep-into-accident-insights-with-the-magic-of-excel-9cb6c5abcec8)), where each key finding is discussed in-depth.
 
 ## Acknowledgment
 
